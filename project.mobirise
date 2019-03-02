@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-04-18_2309",
+    "name": "Athens-Neighborhood",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -15,7 +15,7 @@
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": true,
         "isRtl": false
@@ -26,9 +26,19 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.0",
-    "uniqCompNum": 19,
-    "versionPublish": "4.7.0",
-    "screenshot": "screenshot.png"
+    "uniqCompNum": 28,
+    "versionPublish": "4.9.4",
+    "screenshot": "screenshot.png",
+    "siteFonts": [],
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "siteUrl": "",
+    "sitemapSwitcherAuto": "on",
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
@@ -66,7 +76,7 @@
             "overlayOpacity": 0.5
           },
           "title": "ΟΙ ΓΕΙΤΟΝΙΕΣ ΤΗΣ ΑΘΗΝΑΣ",
-          "text": "Intro με φόντο video ενα πολύ καλό θεμα εισαγωγής σχετικό με τη δραστηριότητα σας",
+          "text": "Η γειτονιές της Αθήνας είναι μια ενημερωτική σελίδα του δικτύου INCO&nbsp;<br>",
           "buttons": "    <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#form1-9\" data-toolbar=\"-mbrBtnMove\">CONTACT</a>   ",
           "_tags": [
             "Theme"
@@ -153,7 +163,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Athens Neighborhood</a>",
           "_tags": [
             "Theme"
           ],
@@ -173,7 +183,7 @@
             "paddingBottom": 2,
             "columns": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-1-17-8-2018-6-07-668x376.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-1-4-11-2018-5-34-668x376.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#efefef",
@@ -181,7 +191,7 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
@@ -306,7 +316,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "inverse": true,
+            "inverse": false,
             "imageSize": "54",
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -325,18 +335,18 @@
           },
           "media": {
             "image": {
-              "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-31-8-2018-9-56-668x376.png",
+              "src": "@PROJECT_PATH@/assets/images/%CE%A3%CF%84%CE%B9%CE%B3%CE%BC%CE%B9%CF%8C%CF%84%CF%85%CF%80%CE%BF%201%20(31-8-2018%209-56%20%CF%80%CE%BC)-668x376.png",
               "link": "",
               "alt": "",
               "title": ""
             },
             "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "src": "https://www.youtube.com/embed/0SmGXAW1joQ",
               "aspectratio": "16:9",
               "autoplay": false,
-              "loop": false
+              "loop": false,
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box5",
@@ -358,8 +368,8 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "inverse": false,
-            "imageSize": 50,
+            "inverse": true,
+            "imageSize": "53",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -407,6 +417,301 @@
         },
         {
           "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead": {
+              "font-size": "20px",
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bike.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "YouTube channels",
+          "text": "Τα κανάλια του δικτύου INCO\r",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-k"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/%CE%A3%CF%84%CE%B9%CE%B3%CE%BC%CE%B9%CF%8C%CF%84%CF%85%CF%80%CE%BF%201%20(20-1-2019%209-12%20%CE%BC%CE%BC)-668x376.png",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/channel-youtube6-600x338.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/channel-youtube-600x338.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/channel-youtube2-600x338.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/channel-youtube-600x338.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Ενημερωτικά Video",
+          "subtitle1": "Κανάλι : Οι Δημοκράτες",
+          "caption1": "Ειδήσεις και σχόλια πολιτική συζήτηση με μια απλή ματιά σε θέματα από τη πολιτική επικαιρότητα που απασχολούν τη κοινή γνώμη &nbsp;<br>",
+          "title2": "Δραστηριότητες εντός και εκτός πόλης\r",
+          "subtitle2": "Κανάλι Kiprianos Porfiris",
+          "caption2": "Βρέθηκα στη Θεσσαλονίκη για να καταγράψω το παλμό στο συλλαλητήριο για την Μακεδονία και σημειωθήκαν επεισόδια ο κόσμος δεν είχε καμία διάθεση να φτάσει στα άκρα",
+          "title3": "Προβολή &nbsp;Πληροφορία &nbsp;Διαφήμιση",
+          "subtitle3": "Κανάλι : Home shop n more",
+          "caption3": "Σε αυτό το κανάλιΕιδικότητα μας είναι τα θέματα διακόσμηση εσωτερικών εξωτερικών χώρων φωτισμός έπιπλα διάφορα αντικείμενα λεπτομέρειες κατασκευής ποιότητα ειδικές τεχνικές λεπτομέρειες.Πώληση, διαφήμιση, Κατασκευή ιστοσελίδων, διαφημιστικών κειμένων, e-shop.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.youtube.com/channel/UCRE88anEQLLHJ1ZVyzJNxRA\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\"></span>MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.youtube.com/channel/UCKoXNCpY-OuxT1ru1TH8GHw\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.youtube.com/user/Homeshopnmore\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-idea mbr-iconfont mbr-iconfont-btn\"></span>MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-j",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Μερικά απο τα θέματα που μας απασχολούν",
+          "meta": "Από το 2011 δεν έχουμε σταματήσει να ανεβάζουμε περιεχόμενο στις σελίδες του δικτύου INCO<br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-o"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": true,
+            "images": [
+              {
+                "tags": "Βόλτες",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/bike.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bike-small.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Αθήνα",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/gazi-keramikos-772x401.png",
+                "thumb": "@PROJECT_PATH@/assets/images/gazi-keramikos-772x401-772x401.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Μακεδονικό",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-1-9-9-2018-2-02-668x376.png",
+                "thumb": "@PROJECT_PATH@/assets/images/1-9-9-2018-2-02-668x376-668x376.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Δρώμενα",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-1-3-2-2019-10-14-668x376.png",
+                "thumb": "@PROJECT_PATH@/assets/images/1-3-2-2019-10-14-668x376-668x376.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Lifestyle",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/1-living-room-950x633.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-living-room-950x633-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Παλιογυναίκες",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/vintage-bullet-bra-1200x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vintage-bullet-bra-1200x600-800x400.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Lifestyle",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/stage-2-image-expirement-1200x720.png",
+                "thumb": "@PROJECT_PATH@/assets/images/stage-2-image-expirement-1200x720-800x480.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Τεχνολογία",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1355.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1355-800x565.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-n"
+        },
+        {
+          "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
             }
@@ -442,6 +747,31 @@
               "text-align": "left"
             }
           }
+        },
+        {
+          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "postToLoad": 3,
+            "facebook": "",
+            "twitter": "",
+            "google": "",
+            "youtube": "UCKoXNCpY-OuxT1ru1TH8GHw",
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
+            "overlay": true,
+            "overlayColor": "#7e9b9f",
+            "overlayOpacity": 0.6
+          },
+          "alias": "social-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "feed",
+          "_anchor": "feed-r"
         },
         {
           "_params": {
