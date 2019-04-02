@@ -26,7 +26,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.0",
-    "uniqCompNum": 28,
+    "uniqCompNum": 26,
     "versionPublish": "4.9.4",
     "screenshot": "screenshot.png",
     "siteFonts": [],
@@ -318,7 +318,7 @@
             "showText": true,
             "showButtons": true,
             "inverse": false,
-            "imageSize": 50,
+            "imageSize": "52",
             "paddingTop": "3",
             "paddingBottom": "3",
             "bgImageRadio": false,
@@ -341,7 +341,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/embed/6gbfr_rzeUY",
+              "src": "https://www.youtube.com/embed/Mrm1NGDBz3Q",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -353,11 +353,11 @@
             }
           },
           "title": "Ο Κυριάκος Μητσοτάκης για της Γειτονιές της Αθήνας",
-          "text": "Δήλωση του Προέδρου της Ν.Δ. κ. Κυριάκου Μητσοτάκη κατά την επίσκεψή του στα Σεπόλια για της γειτονιές της Αθήνας",
+          "text": "Δήλωση του Προέδρου της Ν.Δ. κ. Κυριάκου Μητσοτάκη κατά την επίσκεψή του στα Σεπόλια για της γειτονιές της Αθήνας. Υποβαθμίζεται η ζωή και το βοιωτικό επίπεδο των κατοίκων της Αθήνας και κανείς δεν δίνει σημασία οι κάτοικοι ανησυχούν για το που θα φτάσει αυτό το χάλι.",
           "_tags": [
             "Theme"
           ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=6gbfr_rzeUY\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/channel/UCKoXNCpY-OuxT1ru1TH8GHw\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-r"
         },
