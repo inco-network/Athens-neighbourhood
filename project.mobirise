@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Athens-Neighbourhood",
-    "currentPage": "index.html",
+    "currentPage": "petroupoli.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -27,7 +27,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.0",
-    "uniqCompNum": 54,
+    "uniqCompNum": 61,
     "versionPublish": "4.9.4",
     "screenshot": "screenshot.png",
     "siteFonts": [],
@@ -184,7 +184,7 @@
             "paddingBottom": 2,
             "columns": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-1-4-11-2018-5-34-668x376.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/dscn0383-1600x1200-800x600.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#efefef",
@@ -321,7 +321,7 @@
             "showText": true,
             "showButtons": true,
             "inverse": false,
-            "imageSize": 50,
+            "imageSize": "63",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -369,6 +369,9 @@
           "_styles": {
             "H3": {
               "font-size": "30px"
+            },
+            "P": {
+              "text-align": "right"
             }
           }
         },
@@ -391,7 +394,7 @@
             "showText": true,
             "showButtons": true,
             "inverse": true,
-            "imageSize": "54",
+            "imageSize": "50",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -443,7 +446,7 @@
             "showText": true,
             "showButtons": true,
             "inverse": false,
-            "imageSize": "59",
+            "imageSize": "45",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -500,7 +503,7 @@
             "showText": true,
             "showButtons": true,
             "inverse": true,
-            "imageSize": "54",
+            "imageSize": "50",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -1341,13 +1344,47 @@
           "_anchor": "menu-y"
         },
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dscn0365-1600x1200.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ΝΕΑ ΦΙΛΑΔΕΛΦΕΙΑ",
+          "text": "<p>Πέρασμα που έχει αρκετά μεγάλη προσέλευση κόσμου και από άλλες περιοχές.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1o"
+        },
+        {
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": true,
             "inverse": true,
             "imageSize": "63",
-            "paddingTop": "4",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1705,13 +1742,108 @@
           "_anchor": "menu-15"
         },
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dscn0010-2000x1500.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ΠΕΤΡΟΥΠΟΛΗ ΔΥΤΙΚΗ ΑΤΤΙΚΗ",
+          "text": "Οποιος έρχεται στη Πετρούπολη σταματάει στη Πετρούπολη",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1n"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "63",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/dscn0010-1400x1050.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Αλαγή σκηνικού στο βουνό της Πετρούπολης",
+          "text": "29/1/2020 <br>Την ώρα που ο κόσμος προσπαθεί να βρει ένα εργασιακό ρυθμό και να βάλει σε τάξη την ημέρα του να οργανώσει τη δουλειά του η φύση συνεχίζει το έργο της το περιβάλλον που βρίσκεται γύρω μας  αλλάζει και μας αναζωογονεί. Πρόσφατα στην Αττική έριξε λίγο χιόνι και αυτό φαίνεται στις κορυφές της Πάρνηθας από το βουνό της Πετρούπολης. Το σημείο της φωτογραφίας δείχνει τη συνέχεια των βουνών στο λεκανοπέδιο της Αττικής..<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1i",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "font-size": "36px"
+            }
+          }
+        },
+        {
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "inverse": true,
-            "imageSize": "63",
-            "paddingTop": "3",
+            "inverse": false,
+            "imageSize": "50",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1792,8 +1924,32 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/dscn0387-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dscn0387-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dscn0004-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dscn0004-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dscn0018-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dscn0018-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dscn0009-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dscn0009-2000x1500-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -1804,20 +1960,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/dscn0388-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dscn0388-2000x1500-800x600.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/dscn0400-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dscn0400-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dscn0005-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dscn0005-2000x1500-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -1836,12 +1980,12 @@
                 "active": false
               },
               {
-                "tags": "Awesome",
+                "tags": "Creative",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/dscn0409-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dscn0409-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dscn0400-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dscn0400-2000x1500-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -1870,18 +2014,6 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/dscn0389-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dscn0389-2000x1500-800x600.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": true
               }
             ]
           },

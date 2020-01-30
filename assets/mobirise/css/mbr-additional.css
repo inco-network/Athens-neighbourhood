@@ -492,6 +492,9 @@ h6,
 #msg-box5-1g H3 {
   font-size: 30px;
 }
+#msg-box5-1g P {
+  text-align: right;
+}
 #msg-box5-x H3 {
   font-size: 36px;
 }
@@ -584,6 +587,10 @@ h6,
 #menu-y .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#msg-box8-1o .mbr-section-title,
+#msg-box8-1o p {
+  color: #fff;
+}
 #msg-box5-11 H3 {
   font-size: 36px;
 }
@@ -650,6 +657,17 @@ h6,
 #menu-15 .link[aria-expanded="true"],
 #menu-15 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#msg-box8-1n .mbr-section-title,
+#msg-box8-1n p {
+  color: #fff;
+}
+#msg-box8-1n .lead {
+  color: #ffffff;
+}
+#msg-box5-1i H3 {
+  text-align: left;
+  font-size: 36px;
 }
 #msg-box5-17 H3 {
   font-size: 36px;
