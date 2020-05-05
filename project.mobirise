@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Athens-Neighbourhood",
-    "currentPage": "parko-tritsi-ilion.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -27,7 +27,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.0",
-    "uniqCompNum": 78,
+    "uniqCompNum": 82,
     "versionPublish": "4.9.4",
     "screenshot": "screenshot.png",
     "siteFonts": [],
@@ -327,6 +327,63 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_name": "features7",
           "_anchor": "features7-7"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "54",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/dscn0021-2000x1500.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/pict0001-1400x1050.jpg",
+              "link": "",
+              "alt": "Petroupoli-Athens-1-5-2020",
+              "title": "Πετρούπολη 1 Μαίου 2020"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "ΠΕΤΡΟΥΠΟΛΗ 1 ΜΑΙΟΥ 2020&nbsp;",
+          "text": "Δεν είχα ιδέα ότι θα συναντιύσα τόσο κόσμο στο βουνό κόσμο και από άλλες περιοχές. Τη πρωτομαγιά ανέβηκα ως σηνήθως για βόλτα ποδηλατο και αναψυχή , λόγο καραντίνας αρκετός κόσμος παρέμεινε στη περιοχή που μένει, η κλεισούρα όμως και λόγο ημέρας 1 Μαίου ο ΄κοσμος βγήκε να ξεσκάσει από την καραντίνα που κράτησε μέχρι και τις 4/5/20. Είχα να δω τόσο κόσμο πάρα πολύ καιρό μικροί μεγάλοι με τα πόδια και με ποδήλατα πολύ ώραια εικόνα. Ο κόσμος ήταν παντού ακόμα και μες στους θάμνους. Τράβηξα video όχι τον κόσμο όμως γιατι τον ενοχλούσε η κάμερα και με το δίκιο του 2 μήνες τώρα βγήκε να χαλαρώση από την ένταση που προκάλεσε η καραντίνα του covid-19,",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-29",
+          "_styles": {
+            "H3": {
+              "font-size": "36px"
+            }
+          }
         },
         {
           "_params": {
@@ -1897,9 +1954,188 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "inverse": true,
-            "imageSize": "63",
+            "imageSize": "56",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/dscn0015-1400x1050.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Παίζει να είχε μαζευτεί η μισή Πετρούπολη στο Βουνό<br> 1 Μαΐου 2020",
+          "text": "1/5/2020<br>Το video γυρίστηκε αρχικά 1 Μαίου και Κυριακή 3 Μαίου λογο της αποφυγής συνωστισμού είχαν κλείσει τα πάρκα το βουνό ήταν γεμάτο κόσμο συνέχεια από το πρωί μέχρι αργά το απόγευμα με αρκετά καλό καιρό ο κόσμος παραδοσιακά προσπάθησε να ευχαριστηθεί τη 1 Μάιου κοντά στη περιοχή διαμονής του<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://youtu.be/SRTTtq5M2TA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">YouTube</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-27",
+          "_styles": {
+            "SPAN": {
+              "font-size": "36px"
+            },
+            "H3": {
+              "font-size": "36px"
+            }
+          }
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 1,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "filterBgColor": true,
+            "bgColor": "#000000",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dscn0015-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dscn0015-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dscn0016-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dscn0016-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dscn0014-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dscn0014-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dscn0013-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dscn0013-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dscn0015-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dscn0015-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dscn0018-1-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dscn0018-1-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dscn0021-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dscn0021-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dscn0020-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dscn0020-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-28"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "48",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -1956,8 +2192,8 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "inverse": false,
-            "imageSize": "50",
+            "inverse": true,
+            "imageSize": "48",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
