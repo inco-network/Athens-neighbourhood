@@ -27,7 +27,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.0",
-    "uniqCompNum": 83,
+    "uniqCompNum": 86,
     "versionPublish": "4.9.4",
     "screenshot": "screenshot.png",
     "siteFonts": [],
@@ -334,6 +334,77 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=0ZL7dnOgD5k",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Άρθρο από την ηλεκτρονική έκδοση &lt;&lt;Πρώτο θέμα&gt;&gt;",
+          "text": "<b><i>Ο«Μεγάλος Περίπατος της Αθήνας»: Αλλάζει η Πανεπιστημίου, πεζοδρομούνται Μητροπόλεως και Αθηνάς</i></b>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2d",
+          "_styles": {
+            "H3": {
+              "font-size": "30px"
+            },
+            "P": {
+              "font-size": "22px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><span style=\"font-size: 1.07rem;\">Ο Κώστας Μπακογιάννης ανακοίνωσε μία από τις μεγαλύτερες αστικές παρεμβάσεις στην ιστορία της πρωτεύουσας, μήκους 6,8 χιλιομέτρων - Ενοποίηση του ιστορικού κέντρου, απόδοση 50.000 τετραγωνικών μέτρων ελεύθερου, δημόσιου χώρου - Τι αλλάζει σε Ηρώδου Αττικού και Βασιλίσσης Όλγας - Πού θα γίνουν ποδηλατόδρομοι</span><br></p><p><br></p><p>\n</p><div>\n</div><div>Το σχέδιο για τη δημιουργία μίας από τις μεγαλύτερες αστικές παρεμβάσεις που έγιναν ποτέ στην πρωτεύουσα, του Μεγάλου Περιπάτου της Αθήνας, εγκρίθηκε σήμερα, Δευτέρα, με ευρύτατη πλειοψηφία, από το Δημοτικό Συμβούλιο του Δήμου Αθηναίων -εκτός από την δημοτική παράταξη του δημάρχου Αθηναίων Κώστα Μπακογιάννη, υπερψήφισαν επίσης οι δημοτικές παρατάξεις του Νάσου Ηλιόπουλου, του Παύλου Γερουλάνου, του Γιώργου Βουλγαράκη και του Βασίλη Καπερνάρου.</div><div>\n</div><div><a href=\"https://www.protothema.gr/files/2020-05-11/%CE%9F_%CE%9C%CE%B5%CE%B3%CE%B1%CE%BB%CE%BF%CF%82_%CE%A0%CE%B5%CF%81%CE%B9%CF%80%CE%B1%CF%84%CE%BF%CF%82.pdf\"><b>Δείτε εδώ όλο το σχέδιο</b></a></div><p></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2c"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
             "inverse": false,
             "imageSize": "51",
             "paddingTop": "1",
@@ -391,7 +462,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/dscn0021-2000x1500.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
