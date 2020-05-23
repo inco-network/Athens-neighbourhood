@@ -22,12 +22,13 @@
       },
       "additionalSetColors": [
         "#f4e7c2",
-        "#f2ecec"
+        "#f2ecec",
+        "#1b747a"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.0",
-    "uniqCompNum": 86,
+    "uniqCompNum": 97,
     "versionPublish": "4.9.4",
     "screenshot": "screenshot.png",
     "siteFonts": [],
@@ -327,6 +328,62 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_name": "features7",
           "_anchor": "features7-7"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "54",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/dscn0402-2000x1500.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/scene%200%20(00.01.46.306)-1280x720.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "linkInNewWindow": false,
+              "name": "streetsign",
+              "family": "et-line",
+              "link": "",
+              "size": 250,
+              "color": "#1b747a",
+              "active": true
+            }
+          },
+          "title": "Η διαδρομή προς <br>Λεωφ. ΝΑΤΟ&nbsp;",
+          "text": "Το νέο video της ενότητας Κατάβαση από το βουνό της Πετρούπολής προς Ελευσίνα. Δ'εν είναι μονοπάτι δασικός χωματόδρομος δύσκολος για αμάξι βαρετός για 4χ4 (μικρή διδρομή) άνετος για ποδήλατο κατηφορικός, για την επιστροφή καλύτερα κάντε το κύκλο . . .&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"petroupoli.html#msg-box8-1n\" data-toolbar=\"-mbrBtnMove\">Διαβάστε περισσότερα</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-2n"
         },
         {
           "_inherit": "msg-box5",
@@ -1534,12 +1591,32 @@
             }
           },
           "text1": "<strong>Address</strong><br>Περικλέους 56 Αθήνα<br>Πετρούπολη<br>13231<br><br>\n<strong>Contacts</strong><br>\nEmail: sales@inco-network.com<br>\nPhone: +3(0) 6979149356<br>\nFax: +",
-          "text2": "<p class=\"mbr-contacts__text\"><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Πληροφορίες</b></span></font></p><ul><li>Inco Network</li><li>Athens neighborhood</li><li>Develop promotion content</li><li>Advertisement</li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Πληροφορίες</b></span></font></p><ul><li>Inco Network</li><li><a href=\"https://inco-network.github.io/Athens-neighbourhood/index.html\" target=\"_blank\">Athens neighborhood</a></li><li>Develop promotion content</li><li>Advertisement</li></ul>",
           "_tags": [
             "Theme"
           ],
           "_name": "contacts2",
           "_anchor": "contacts2-a"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "<a href=\"http://www.inco-network.com\">Copyright (c) 2018 Inco Network.</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-2e"
         }
       ]
     },
@@ -1932,7 +2009,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Περικλέους 56 Αθήνα<br>Πετρούπολη<br>13231<br><br>\n<strong>Contacts</strong><br>\nEmail: sales@inco-network.com<br>\nPhone: +3(0) 6979149356<br>\nFax: +",
-          "text2": "<p class=\"mbr-contacts__text\"><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Πληροφορίες</b></span></font></p><ul><li>Inco Network</li><li>Athens neighborhood</li><li>Develop promotion content</li><li>Advertisement</li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Πληροφορίες</b></span></font></p><ul><li>Inco Network</li><li><a href=\"https://inco-network.github.io/Athens-neighbourhood/index.html\" target=\"_blank\">Athens neighborhood</a></li><li>Develop promotion content</li><li>Advertisement</li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -2076,9 +2153,74 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "inverse": true,
-            "imageSize": "56",
+            "inverse": false,
+            "imageSize": "58",
             "paddingTop": "1",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/-3-960x540.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Ποικίλο, Λ. ΝΑΤΟ, Ιλιον, Πετρούπολη",
+          "text": "Όπως έχω ξαναπεί 1 μόνο video δεν μπορεί να αποτυπώσει την εικόνα που έχει το βουνό της Πετρούπολης (Ποικίλο όρος) για αυτό και δείχνουμε και με ποιες περιοχές συνορεύει. Αν επιλέγαμε θα μπορούσαμε να κατευθυνθούμε εύκολα προς Ασπρόπυργο, Ελευσίνα, Μαγούλα κλπ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=frhUkKuK3qo\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">YouTube</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-2o"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "text": "&nbsp;(Ποικίλο όρος) για αυτό και δείχνουμε και με ποιές περιοχές συνορεύει στο video κατεβήκαμε το βουνό από τη βόρεια μεριά και συναντήσαμε τη Λεωφ. ΝΑΤΟ΄ στα όρια του δήμου Μάντρας , Φιλής . Αν επιλέγαμε θα μπορούσαμε να κατευθυνθούμε εύκολα προς Ασπρόπυργο, Ελευσίνα, Μαγούλα κλπ. Η περιοχή έχει αρχίσει να αναβαθμίζεται και να ξαναγίνεται δάσος καλό είναι να προσέχουμε και να μην αφήσουμε για κανένα λόγο να υποβαθμιστεί τα αποτίματα με κατάληλη επεξεργασία και με σεβασμό στο περιβάλλον και την ανακύκλωση εκσυγχρονισμό των εγκαταστάσεων θα μπορούσαν να μετατρέψουν τα απορρίμματα σε πλούτο για την περιοχή και να βελτιώσουν το βοιωτικό επίπεδο των κατοίκων αλλά με δουλειά όχι μόνο βόλτες με το ποδήλατο εμείς θέλουμε την κάθε περιοχή τη κάθε γειτονιά να ομορφαίνει όχι στα λόγια στη πράξη.\n<div><br></div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2g"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "58",
+            "paddingTop": "0",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2127,7 +2269,7 @@
               "font-size": "36px"
             },
             "H3": {
-              "font-size": "36px"
+              "font-size": "23px"
             }
           }
         },
@@ -2567,7 +2709,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Περικλέους 56 Αθήνα<br>Πετρούπολη<br>13231<br><br>\n<strong>Contacts</strong><br>\nEmail: sales@inco-network.com<br>\nPhone: +3(0) 6979149356<br>\nFax: +",
-          "text2": "<p class=\"mbr-contacts__text\"><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Πληροφορίες</b></span></font></p><ul><li>Inco Network</li><li>Athens neighborhood</li><li>Develop promotion content</li><li>Advertisement</li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Πληροφορίες</b></span></font></p><ul><li>Inco Network</li><li><a href=\"https://inco-network.github.io/Athens-neighbourhood/index.html\" target=\"_blank\">Athens neighborhood</a></li><li>Develop promotion content</li><li>Advertisement</li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -2977,7 +3119,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Περικλέους 56 Αθήνα<br>Πετρούπολη<br>13231<br><br>\n<strong>Contacts</strong><br>\nEmail: sales@inco-network.com<br>\nPhone: +3(0) 6979149356<br>\nFax: +",
-          "text2": "<p class=\"mbr-contacts__text\"><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Πληροφορίες</b></span></font></p><ul><li>Inco Network</li><li>Athens neighborhood</li><li>Develop promotion content</li><li>Advertisement</li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Πληροφορίες</b></span></font></p><ul><li>Inco Network</li><li><a href=\"https://inco-network.github.io/Athens-neighbourhood/index.html\" target=\"_blank\">Athens neighborhood</a></li><li>Develop promotion content</li><li>Advertisement</li></ul>",
           "_tags": [
             "Theme"
           ],
