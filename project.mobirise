@@ -28,7 +28,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.0",
-    "uniqCompNum": 119,
+    "uniqCompNum": 120,
     "versionPublish": "4.9.4",
     "screenshot": "screenshot.png",
     "siteFonts": [],
@@ -328,6 +328,64 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_name": "features7",
           "_anchor": "features7-7"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "linkInNewWindow": false,
+              "name": "bike",
+              "family": "et-line",
+              "link": "",
+              "size": 0,
+              "active": true,
+              "color": "#1b747a"
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "<b>Ηλεκτροκίνηση: Μπόνους για ηλεκτρικά οχήματα, φορολογικά κίνητρα, δωρεάν στάθμευση &nbsp;</b>28/5/2020<br> Όπως είχε δηλώσει χτες, άλλωστε, ο υπουργός κ. Χατζηδάκης, για τα ηλεκτρικά σκούτερ και τα ηλεκτρικά ποδήλατα οι επιδοτήσεις θα είναι πιο γενναίες, «γιατί θέλουμε να κάνουμε άνοιγμα στα δίκυκλα, ιδιαίτερα στα ποδήλατα. Θεωρούμε ότι είναι η κίνηση της νέας εποχής. Μας νοιάζει η νέα γενιά και μας νοιάζει ιδιαίτερα το ποδήλατο. Γι’ αυτό εκεί θα δώσουμε σημαντικά κίνητρα». Επίσης είχε διαβεβαιώσει πως θα προχωρήσει αμέσως η εγκατάσταση φορτιστών, τα «ηλεκτρικά βενζινάδικα», όπως χαρακτηριστικά ανέφερε.&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://oi-dimokrates.blogspot.com/2020/05/liberalgr_28.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Διαβάστε περισσότερα</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-3b",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_params": {
