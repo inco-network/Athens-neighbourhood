@@ -655,6 +655,7 @@ section.form .container {
 #msg-box5-11 P {
   font-size: 18px;
 }
+
 #menu-15 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -722,6 +723,10 @@ section.form .container {
 }
 #msg-box8-1n .lead {
   color: #ffffff;
+}
+#msg-box5-3e P {
+  text-align: left;
+  font-family: 'Raleway', sans-serif;
 }
 #msg-box5-27 SPAN {
   font-size: 36px;
