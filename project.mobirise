@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Athens-Neighbourhood",
-    "currentPage": "petroupoli.html",
+    "currentPage": "Parnitha-National-Park.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -28,7 +28,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.0",
-    "uniqCompNum": 128,
+    "uniqCompNum": 136,
     "versionPublish": "4.9.4",
     "screenshot": "screenshot.png",
     "siteFonts": [],
@@ -328,6 +328,58 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_name": "features7",
           "_anchor": "features7-7"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "53",
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/parnitha%202022-928x424.png",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-20220102-124527-1400x1050.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Βόλτα στη Πάρνηθα (Αρχές) 2022",
+          "text": "2/1/2022<br>Αρχές του 2022 Κυριακή 2 Ιανουαρίου βόλτα στο βουνό της Πάρνηθας για περπάτημα χωρίς το ποδήλατο ανέβηκα με το παπί και τράβηξα το video από τη διαδρομή που ακολουθείς προς το μονοπάτι για τη σπηλιά του Πάνα. Θα κάνω άλλο video με το μονοπάτι και τη σπηλιά.! <b>Καλή χρονιά.&nbsp;</b><br>Καλό το ρεβεγιόν των Χριστουγέννων και της πρωτοχρονιάς δηλαδή τη καλό με κορωνοιό αλλά λίγο περπάτημα να γεμίσεις τις μπαταρίες σου.....<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Parnitha-National-Park.html#msg-box5-3p\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>Video&nbsp;</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-3k"
         },
         {
           "_params": {
@@ -1657,6 +1709,18 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Βόλτες",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20220102-141454-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20220102-141454-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -1828,7 +1892,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "<a href=\"http://inconetwork.com\" target=\"_blank\">Copyright (c) 2018 Inco Network.</a>",
+          "text": "<a href=\"http://inconetwork.com\" target=\"_blank\">Copyright (c) 2022 Inco Network.</a>",
           "_tags": [
             "Theme"
           ],
@@ -1841,7 +1905,7 @@
       "settings": {
         "meta_descr": "Athens,Greece,Nea filadelfia",
         "title": "Νέα Φιλαδέλφεία",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -2239,7 +2303,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Πετρούπολη",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -3204,7 +3268,7 @@
       "settings": {
         "meta_descr": "Δυτικός τομέας Αττικής περιβαλλοντικό πάρκο Αντώνης Τρίτσης \n",
         "title": "Πάρκο Τρίτση Ίλιον",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -3607,6 +3671,363 @@
           ],
           "_name": "contacts2",
           "_anchor": "contacts2-1r"
+        }
+      ]
+    },
+    "Parnitha-National-Park.html": {
+      "settings": {
+        "meta_descr": "Parnitha, National Park,Nature,Cycling,Walk,Hiking,Adventure",
+        "title": "Εθνικός δρυμός Πάρνηθας",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#c1c1c1"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#c1c1c1"
+            },
+            ".link, .dropdown-item": {
+              "color": "#c1c1c1"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#c1c1c1",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#c1c1c1",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content1-g\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-inco2-549x128.png",
+              "height": 128,
+              "alt": "inco",
+              "link": "index.html",
+              "title": "Inco-Development",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Athens Neighbourhood</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-3l"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/scene-0-00.05.36.135-1280x720.png",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Εθνικός δρυμός Πάρνηθας",
+          "text": "<b>Ένα μνημείο της φύσης</b>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-3o"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://youtu.be/pZQ1cyxQZ20",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Bόλτα στο βουνό της Πάρνηθας&nbsp;",
+          "text": "2/1/2022<br>Αρχές του 2022 Κυριακή 2 Ιανουαρίου βόλτα στο βουνό της Πάρνηθας για περπάτημα χωρίς το ποδήλατο ανέβηκα με το παπί και τράβηξα το video από τη διαδρομή που ακολουθείς προς το μονοπάτι για τη σπηλιά του Πάνα. Θα κάνω άλλο video με το μονοπάτι και τη σπηλιά.! Καλή χρονιά\n<br> Συνεχίζεται.....",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-3p"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "Καλό το ρεβεγιόν των Χριστουγέννων και της πρωτοχρονιάς δηλαδή τη καλό με κορωνοιό αλλά λίγο περπάτημα να γεμίσεις τις μπαταρίες σου δεν βλάπτει και ιδιαιτέρα αν βρεθείς σε ένα τέτοιο περιβάλλον πολύ κοντά στο τόπο διαμονής στην Αττική. Δεν είναι η πρώτη φορά που πάω στη Πάρνηθα  για βόλτα με ποδήλατο μηχανή ή αυτοκίνητο αλλά όταν πάω ευχαριστιέμαι το περιβάλλον του βουνού τους ήχους του νερού το πράσινο της φύσης τη θέα στη θάλασσα. Στο video δείχνω το ποιο Instagram &amp; YouTube σημείο της Πάρνηθας. Πιθανότατα να έχετε δει κάποια video Που κάποιοι τύποι βρίσκονται σε ένα δάσος με χιόνι, σκηνή κόβουν ξύλα ανάβουν φωτιά,  μαγειρεύουν ακονίζουν τσεκούρια μαχαίρια κλπ.  Και όλα αυτά σε ένα ειδυλλιακό παραβάλλον μέσα στο δάσος δίπλα σε ένα ποταμάκι. Ε όλα αυτά τα συναντά κανείς στο σημείο στην Πάρνηθα που δείχνω στο &nbsp;Video.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3r"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": 1,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "filterBgColor": true,
+            "bgColor": "#000000",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20220102-141440-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20220102-141440-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20220102-141449-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20220102-141449-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20220102-141450-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20220102-141450-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20220102-141449-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20220102-141449-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20220102-141450-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20220102-141450-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20220102-141452-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20220102-141452-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20220102-141452-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20220102-141452-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20220102-141454-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20220102-141454-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-3q"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "Περικλέους 56 Πετρουπολη Αθήνα",
+              "placeId": "ChIJ010n8m-joRQRqM7LE1KeNlc",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Address</strong><br>Περικλέους 56 Αθήνα<br>Πετρούπολη<br>13231<br><br>\n<strong>Contacts</strong><br>\nEmail: sales@inconetwork.com<br>\nPhone: +3(0) 6979149356<br>\nFax: +",
+          "text2": "<p class=\"mbr-contacts__text\"><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Πληροφορίες</b></span></font></p><ul><li>Inco Network</li><li><a href=\"https://inco-network.github.io/Athens-neighbourhood/index.html\" target=\"_blank\">Athens neighborhood</a></li><li>Develop promotion content</li><li>Advertisement</li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-3m"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "<a href=\"http://inconetwork.com\" target=\"_blank\">Copyright (c) 2022 Inco Network.</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-3n"
         }
       ]
     }
