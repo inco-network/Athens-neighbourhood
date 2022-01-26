@@ -23,13 +23,14 @@
       "additionalSetColors": [
         "#f4e7c2",
         "#f2ecec",
-        "#1b747a"
+        "#1b747a",
+        "#232323"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.0",
-    "uniqCompNum": 139,
-    "versionPublish": "4.9.4",
+    "uniqCompNum": 138,
+    "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "siteFonts": [],
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -41,7 +42,6 @@
     "cookiesAlert": {
       "colorText": "#424a4d",
       "colorBg": "#eaeff1",
-      "colorButton": "#ffffff",
       "colorLink": "#424a4d",
       "underlineLink": true,
       "opacity": "99",
@@ -53,7 +53,8 @@
       "underlineLink": false,
       "text": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
-    "google-analytics": ""
+    "google-analytics": "",
+    "imageResize": true
   },
   "pages": {
     "index.html": {
@@ -330,6 +331,62 @@
           "_anchor": "features7-7"
         },
         {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/Pdcq3Jl9m_I",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Το χιόνι στην Αττική περιοχή Πετρούπολη 24/1/2022&nbsp;",
+          "text": "Το πάρκο πάνω από τη πλατεία Δέγλερη δίπλα από το κολυμβητήριο περιοχή αλάνα Κηπούπολης. Όρια Πετρούπολη Περιστέρι",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"petroupoli.html#msg-box5-3s\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-3r",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "font-size": "22px"
+            }
+          }
+        },
+        {
           "_params": {
             "showTitle": true,
             "showText": true,
@@ -379,7 +436,12 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-3k"
+          "_anchor": "msg-box5-3k",
+          "_styles": {
+            "H3": {
+              "font-size": "22px"
+            }
+          }
         },
         {
           "_styles": {
@@ -1445,6 +1507,79 @@
           ],
           "_name": "msg-box8",
           "_anchor": "msg-box8-1n"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "53",
+            "paddingTop": "1",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/kakokeria-elpis-799x381.jpg",
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Κακοκαιρία Ελπίς στην Αττική περιοχή Πετρούπολη",
+          "text": "25/1/2022<br>Το πάρκο πάνω από τη πλατεία Δέγλερη δίπλα από το κολυμβητήριο περιοχή αλάνα Κηπούπολης. Όρια Πετρούπολη Περιστέρι <br>Το Video χωρίζεται σε 2 μέρη δείτε περισσότερα στο YouTube <br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://youtu.be/N1cLwdbN-rU\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mobi-mbri mobi-mbri-video mbr-iconfont mbr-iconfont-btn\"></span>YouTube</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-3s",
+          "_styles": {
+            "H3": {
+              "font-size": "22px"
+            },
+            "P": {
+              "font-size": "14px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "Το  σκηνικό ίδιο με το 2021 ένας χαμός στα κανάλια μπλοκάρισμα στην Αττική οδό ενώ είχαν προειδοποιήσει για το καιρό κάποιοι εσκεμμένα δημιούργησαν ως συνήθως πρόβλημα στη μετακίνηση ενώ είχαν δώσει αργία στον ιδιωτικό και δημόσιο τομέα πήραν το αυτοκίνητο και άρχισαν της βόλτες λες και δεν ήξεραν τίποτα για τον καιρό Όσοι έμειναν σπίτι και βγήκαν για μια απλή βόλτα κοντά στο τόπο διαμονής τους δεν είχαν κανένα απολύτως πρόβλημα..<div>.</div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3t"
         },
         {
           "_params": {
