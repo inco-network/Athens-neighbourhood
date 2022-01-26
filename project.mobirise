@@ -35,9 +35,9 @@
     "siteFonts": [],
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
-    "siteUrl": "",
+    "siteUrl": false,
     "sitemapSwitcherAuto": "on",
-    "favicon": "",
+    "favicon": false,
     "noImageResize": "",
     "cookiesAlert": {
       "colorText": "#424a4d",
@@ -54,7 +54,8 @@
       "text": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
     "google-analytics": "",
-    "imageResize": true
+    "imageResize": true,
+    "sitemapSwitcher": false
   },
   "pages": {
     "index.html": {
